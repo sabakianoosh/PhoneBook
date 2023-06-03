@@ -1,0 +1,39 @@
+﻿<Window x:Class="cs16.wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cs16.wpf"
+        mc:Ignorable="d"
+       Title="PhoneBook" Height="650" Width="400">
+
+<StackPanel Background = "Skyblue">
+
+<Label>first name:</Label>
+<TextBox Name = "tbfirstname" Width = "300" Text = "{Binding Firstname}"/>
+<Label>last name:</Label>
+<TextBox Name = "tblastname" Width = "300" Text = "{Binding Lastname}" />
+<Label> phone number:</Label>
+<TextBox Name = "tbphonenumber" Width = "300" Text = "{Binding Phonenumber}"/>
+<Label> email: </Label>
+<TextBox Name = "tbemail" Width = "300" Text = "{Binding Email}" />
+
+
+
+<Button Click = "AddContact2" Width = "85" Margin = "7"> Add </Button>
+<!-- <Button Click = "saveClick" Width = "85" Margin = "7"> Save </Button> -->
+<Button Click = "getcontacts" Width = "85" Margin = "7"> get all contacts </Button>
+<Button Click = "delete" Width = "85" Margin = "7"> Delete </Button>
+
+<Button Click = "find" Width = "85" Margin = "7"> Find</Button>
+<!-- <Button Click = "unloadClick" Width = "85" Margin = "7"> Clear </Button> -->
+
+
+
+<Label> contacts: </Label>
+<TextBox Name = "tbcontacts" Height="120" Width = "300" />
+
+<!-- <Button Name="CloseButton2" Content="Close" Click="CloseButton_Click" Width = "85" Margin = "7"/> -->
+
+</StackPanel>
+</Window>

@@ -1,0 +1,12 @@
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\bin\Debug\net6.0\cs16.lib.deps.json
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\bin\Debug\net6.0\cs16.lib.dll
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\bin\Debug\net6.0\cs16.lib.pdb
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\cs16.lib.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\cs16.lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\cs16.lib.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\cs16.lib.AssemblyInfo.cs
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\cs16.lib.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\cs16.lib.dll
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\refint\cs16.lib.dll
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\cs16.lib.pdb
+C:\Users\USER\Downloads\cs16\cs16\cs16.lib\obj\Debug\net6.0\ref\cs16.lib.dll
